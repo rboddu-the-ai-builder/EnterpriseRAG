@@ -1,0 +1,198 @@
+[
+    {
+        "question": "What is the official definition of Good Clinical Practice (GCP)?",
+        "ground_truth": "Good Clinical Practice is an ethical and scientific quality standard for designing, conducting, and recording trials that involve the participation of human subjects."
+    },
+    {
+        "question": "What are the two cardinal principles established by the GCP guidelines?",
+        "ground_truth": "The two cardinal principles are the protection of the rights of human subjects and the authenticity of biomedical data generated."
+    },
+    {
+        "question": "What is an Adverse Event (AE)?",
+        "ground_truth": "An Adverse Event is any untoward medical occurrence in a patient or human volunteer during treatment with a pharmaceutical product that does not necessarily have a relationship with the treatment."
+    },
+    {
+        "question": "How does an Adverse Drug Reaction (ADR) differ from an Adverse Event?",
+        "ground_truth": "Unlike an AE, an ADR implies a reasonable possibility that the untoward medical occurrence is related to the medicinal product being studied."
+    },
+    {
+        "question": "What are Type A adverse reactions?",
+        "ground_truth": "Type A reactions represent an augmentation of the pharmacological actions of a drug and are dose-dependent and reversible."
+    },
+    {
+        "question": "What are Type B adverse reactions?",
+        "ground_truth": "Type B reactions are bizarre, idiosyncratic, and cannot be predicted from the known pharmacology of the drug."
+    },
+    {
+        "question": "What is the primary objective of a Phase I Clinical Trial?",
+        "ground_truth": "The objective is to determine the maximum tolerated dose, pharmacodynamic effects, nature of adverse reactions, and pharmacokinetic behavior in humans."
+    },
+    {
+        "question": "What is the typical number of subjects used in a Phase I trial?",
+        "ground_truth": "At least 2 subjects should be used on each dose, and the studies are often carried out in healthy adult volunteers."
+    },
+    {
+        "question": "What is the purpose of Phase II (Exploratory) trials?",
+        "ground_truth": "Phase II trials are conducted in a limited number of patients to determine possible therapeutic uses, effective dose range, and further evaluation of safety."
+    },
+    {
+        "question": "How many patients are typically studied in Phase II trials?",
+        "ground_truth": "Normally 10-12 patients should be studied at each dose level, usually limited to 3-4 centers."
+    },
+    {
+        "question": "What defines a Phase III (Confirmatory) trial?",
+        "ground_truth": "The purpose is to obtain sufficient evidence of efficacy and safety in a larger number of patients, often in comparison with a standard drug or placebo."
+    },
+    {
+        "question": "What is a Phase IV study?",
+        "ground_truth": "These are studies performed after marketing the product, typically in the form of post-marketing surveillance to assess therapeutic value and safety profile."
+    },
+    {
+        "question": "What is a Case Record Form (CRF)?",
+        "ground_truth": "A document designed in consonance with the Protocol to record data and other information on each trial subject."
+    },
+    {
+        "question": "What constitutes 'Informed Consent'?",
+        "ground_truth": "A voluntary written assent of a subject's willingness to participate in a study, sought only after they have been informed of the trial's status, objectives, risks, and benefits."
+    },
+    {
+        "question": "What is the role of an 'Impartial Witness' in the consent process?",
+        "ground_truth": "An independent witness who assists when the subject or legal representative is unable to read or write, signing to confirm that the information was accurately explained."
+    },
+    {
+        "question": "What is an 'Investigational Product'?",
+        "ground_truth": "A pharmaceutical product, including a comparator or placebo, being tested or used as a reference in a clinical study."
+    },
+    {
+        "question": "What is the 'Investigator’s Brochure' (IB)?",
+        "ground_truth": "A collection of clinical and non-clinical data on the investigational product available prior to the onset of the trial to justify the study."
+    },
+    {
+        "question": "What is a 'Multi-Centric Study'?",
+        "ground_truth": "A clinical trial conducted according to a single protocol but taking place at different investigational sites by more than one investigator."
+    },
+    {
+        "question": "Define 'Randomization'.",
+        "ground_truth": "The process of assigning study subjects to either the treatment or control group, giving all subjects the same chance to reduce bias."
+    },
+    {
+        "question": "Who is the Regulatory Authority for clinical trials in India?",
+        "ground_truth": "The Drugs Controller General of India (DCGI) or an office nominated by him."
+    },
+    {
+        "question": "What qualifies as a 'Serious Adverse Event' (SAE)?",
+        "ground_truth": "An event associated with death, inpatient hospitalization, persistent disability, congenital anomaly, or is otherwise life-threatening."
+    },
+    {
+        "question": "What are 'Source Data'?",
+        "ground_truth": "Original documents or certified copies necessary for evaluation of the clinical trial, such as hospital records and subjects' diaries."
+    },
+    {
+        "question": "What are Standard Operating Procedures (SOPs)?",
+        "ground_truth": "Detailed, written instructions to achieve uniformity of performance in the management of clinical studies."
+    },
+    {
+        "question": "What are the three basic ethical principles mentioned in the Declaration of Helsinki?",
+        "ground_truth": "Justice, respect for persons, and beneficence (maximizing benefits and minimizing harms)."
+    },
+    {
+        "question": "What is the 'Principle of Non-exploitation'?",
+        "ground_truth": "A rule ensuring research subjects are remunerated for involvement and kept fully apprised of dangers regardless of their social or economic status."
+    },
+    {
+        "question": "What is the 'Principle of Totality of Responsibility'?",
+        "ground_truth": "The professional and moral responsibility for observing all principles devolves on all those connected with the research, including researchers and sponsors."
+    },
+    {
+        "question": "What are the basic responsibilities of an Institutional Ethics Committee (IEC)?",
+        "ground_truth": "To protect the dignity, rights, and well-being of research participants and ensure universal ethical values are expressed in terms of local community customs."
+    },
+    {
+        "question": "What is the recommended size for an Ethics Committee?",
+        "ground_truth": "The number of persons should be kept small, usually 5-7 members, with a maximum recommended number of 12 to 15."
+    },
+    {
+        "question": "Who should ideally be the Chairperson of an Ethics Committee?",
+        "ground_truth": "The Chairperson should preferably be from outside the institution and not the head of the institution to maintain independence."
+    },
+    {
+        "question": "How long should Ethics Committee records be maintained?",
+        "ground_truth": "Records must be safely maintained for at least 5 years after the completion or termination of the study."
+    },
+    {
+        "question": "Can subjects be coerced into participating in a study?",
+        "ground_truth": "No, investigators and sponsors should not coerce or unduly influence a potential subject to participate or continue in a study."
+    },
+    {
+        "question": "What is a 'Non-Therapeutic Study'?",
+        "ground_truth": "A study in which there is no anticipated direct clinical benefit to the subject."
+    },
+    {
+        "question": "Can pregnant or nursing women be included in clinical trials?",
+        "ground_truth": "Only if the research carries no more than minimal risk to the fetus/infant and the goal is to obtain knowledge about pregnancy, or if non-pregnant women are unsuitable."
+    },
+    {
+        "question": "What is the requirement for conducting trials on children?",
+        "ground_truth": "Children should not be involved if the research could be done with adults, and proxy consent must be obtained from a parent or legal guardian."
+    },
+    {
+        "question": "What is the 'Subject Identification Code'?",
+        "ground_truth": "A unique identification number assigned to each subject to protect their identity, used in lieu of the subject's name in study matters."
+    },
+    {
+        "question": "Who is responsible for selecting the Investigator and Institution?",
+        "ground_truth": "The Sponsor is responsible for selecting the Investigator and Institution based on the appropriateness and availability of the study site."
+    },
+    {
+        "question": "What is the purpose of an 'Audit' of a trial?",
+        "ground_truth": "A systematic verification carried out by persons not involved in the trial to determine consistency with the protocol and compliance with SOPs."
+    },
+    {
+        "question": "What is an 'Independent Data Monitoring Committee' (IDMC)?",
+        "ground_truth": "A committee established by the sponsor to assess trial progress, safety data, and efficacy endpoints to recommend whether to continue or stop a study."
+    },
+    {
+        "question": "What is the 'Monitor's' primary role?",
+        "ground_truth": "To oversee the progress of the study and ensure it is conducted, recorded, and reported in accordance with the Protocol, GCP, and SOPs."
+    },
+    {
+        "question": "What must the investigator do in case of a serious adverse event?",
+        "ground_truth": "The investigator must promptly report all serious and/or unexpected adverse events to the ethics committee, the monitor, and the sponsor."
+    },
+    {
+        "question": "Can an investigator deviate from the protocol?",
+        "ground_truth": "Only to eliminate immediate hazards to subjects; otherwise, any deviation requires prior approval from the ethics committee and agreement from the sponsor."
+    },
+    {
+        "question": "Who is responsible for Investigational Product accountability at the site?",
+        "ground_truth": "The Investigator has the primary responsibility for product accountability at the study site."
+    },
+    {
+        "question": "How should corrections be made in a Case Record Form (CRF)?",
+        "ground_truth": "Corrections should not obscure the original entry; they should be dated, initialed, and explained if necessary."
+    },
+    {
+        "question": "What is the objective of Quality Control (QC) in clinical trials?",
+        "ground_truth": "To avoid exposure of study subjects to unnecessary risks and to avoid false conclusions being drawn from unreliable data."
+    },
+    {
+        "question": "What is the role of a Biostatistician in a clinical study?",
+        "ground_truth": "They are necessary for planning the study, creating a statistical model, determining the number of subjects, and performing the statistical analysis."
+    },
+    {
+        "question": "What is the difference between a 'Single Blind' and 'Double Blind' study?",
+        "ground_truth": "In Single Blind, the subjects are unaware of the treatment; in Double Blind, the subjects, investigators, monitors, and data analysts are unaware."
+    },
+    {
+        "question": "What are Phase I vaccine trials?",
+        "ground_truth": "The first introduction of a vaccine into humans to determine safety and biological effects, including immunogenicity, usually involving low-risk subjects."
+    },
+    {
+        "question": "What is a 'Critical Device' in medical device trials?",
+        "ground_truth": "An investigational device that presents a potential risk to health and welfare, such as pacemakers, implants, or internal catheters."
+    },
+    {
+        "question": "What is the classification of 'Herbal Remedies' for clinical evaluation?",
+        "ground_truth": "They are categorized into those described in ancient texts for same use, extracts/compounds for new indications, and plants never used before (treated as New Chemical Entities)."
+    }
+]
