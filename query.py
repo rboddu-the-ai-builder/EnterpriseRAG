@@ -53,5 +53,5 @@ def run_query(question: str):
               f"— Page {chunk.metadata.get('page', 'N/A')}")
 
 if __name__ == "__main__":
-    question = "What is this document about?"  # ← change this
+    question = "what is blinding"  # ← change this
     run_query(question)
